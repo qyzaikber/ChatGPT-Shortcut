@@ -134,7 +134,7 @@ const config = {
         hideOnScroll: true,
         title: "澎蒙AI",
         logo: {
-          alt: "ChatGPT Shortcuts",
+          alt: "澎蒙AI ChatGPT 提示词",
           src: "img/logo.svg",
         },
         items: [
@@ -198,13 +198,13 @@ const config = {
               },
               {
                 label: "📺 加入 Discord",
-                href: "https://discord.gg/PZTQfJ4GjX",
+                href: "https://discord.com",
               },
             ],
           },
           { type: "localeDropdown", position: "right" },
           {
-            href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+            href: "https://github.com",
             position: "right",
             className: "header-github-link",
           },
