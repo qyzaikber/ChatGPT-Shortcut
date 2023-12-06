@@ -13,7 +13,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title:
     "AiShort(ChatGPT Shortcut)-AI Prompt Management,Productivity Tool",
-  // tagline: '方便中文使用 ChatGPT 快捷指令',
+  // tagline: '澎蒙AI:方便中文使用 ChatGPT 快捷指令',
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -132,7 +132,7 @@ const config = {
       ],
       navbar: {
         hideOnScroll: true,
-        title: "AI Short",
+        title: "澎蒙AI",
         logo: {
           alt: "ChatGPT Shortcuts",
           src: "img/logo.svg",
